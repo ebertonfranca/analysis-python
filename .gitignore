@@ -1,0 +1,22 @@
+# Ignorar arquivos CSV
+*.csv
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos compilados do Python
+*.pyc
+__pycache__/
+
+# Ignorar diretórios de ambientes virtuais
+venv/
+env/
+.venv/
+.env/
+
+# Ignorar arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar configurações específicas de IDEs
+.vscode/
+.idea/
