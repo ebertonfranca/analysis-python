@@ -3,7 +3,7 @@
 2 - Pré-requisitos
 Certifique-se de ter o Python instalado em sua máquina. Os scripts utilizam bibliotecas como pandas, matplotlib, nltk e sklearn. Você pode instalar todas as dependências necessárias utilizando o comando:
 
-    2.1 - pip install pandas matplotlib nltk scikit-learn
+    2.1 - pip install pandas matplotlib nltk scikit-learn google_play_scraper appstore
 
     2.2 - Execute os arquivos scraper_android.py e scraper_ios.py com os comandos:
 
