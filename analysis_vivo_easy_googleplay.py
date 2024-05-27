@@ -95,5 +95,6 @@ def plot_topics(topics, title, color):
             plt.show()
 
 # Gráficos de barras para os tópicos mais comuns nas análises positivas e negativas
-plot_topics(positive_topics, 'Top Tópicos nas Análises Positivas', 'green')
-plot_topics(negative_topics, 'Top Tópicos nas Análises Negativas', 'red')
+plot_topics(positive_topics, 'Google Play - Top Tópicos nas Análises Positivas', 'green')
+plot_topics(negative_topics, 'Google Play - Top Tópicos nas Análises Negativas', 'red')
+
